@@ -7,6 +7,7 @@ This project was built with:
 * NodeJS
 * yargs
 * natural
+* fs
 
 ## Usage
 Your training data must be structered like this:

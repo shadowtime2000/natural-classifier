@@ -22,5 +22,6 @@ Your training data must be structered like this:
 To train a model from it:
 ```
 > cd natural-classifier
+> npm install
 > node index.js train bayes <name of file for training data> <name of file to output classifier to>
 ```

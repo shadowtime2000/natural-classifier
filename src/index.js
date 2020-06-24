@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const natural = require("natural");
 const fs = require("fs");
 

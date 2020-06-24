@@ -9,6 +9,13 @@ This project was built with:
 * natural
 * fs
 
+## Installation
+
+You can install this repository and use ```npm publish -g``` in it, or you can download it from the Github npm registry with this:
+```
+> npm install @shadowtime2000/natural-classifier
+```
+
 ## Usage
 Your training data must be structered like this:
 ```
@@ -21,7 +28,5 @@ Your training data must be structered like this:
 ```
 To train a model from it:
 ```
-> cd natural-classifier
-> npm install
-> node index.js train bayes <name of file for training data> <name of file to output classifier to>
+> natural-classify <training data file name> <export model file name>
 ```

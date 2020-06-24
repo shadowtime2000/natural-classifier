@@ -26,7 +26,7 @@ Your training data must be structered like this:
   ]
 }
 ```
-To train a model from it:
+To find all commands use the following command:
 ```
-> natural-classify <training data file name> <export model file name>
+> natural-classify --help
 ```

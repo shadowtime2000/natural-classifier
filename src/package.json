@@ -19,7 +19,7 @@
     "url": "https://github.com/shadowtime2000/natural-classifier"
   },
   "bin": {
-    "natural-classify": "index.js"
+    "natural-classify": "./index.js"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

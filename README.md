@@ -11,7 +11,7 @@ This project was built with:
 
 ## Installation
 
-You can install this repository and use ```npm publish -g``` in it, or you can download it from the Github npm registry with this:
+You can install this repository and use ```npm install -g``` in it, or you can download it from the Github npm registry with this:
 ```
 > npm install @shadowtime2000/natural-classifier
 ```
